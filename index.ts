@@ -25,7 +25,7 @@ app.get("/", (req, res) => {
         <h2>Available Endpoints:</h2>
         <ul>
             <li><strong>POST /api/jobs</strong>: Create a new job posting (e.g., title, company, location, salary, description).</li>
-            <li><strong>GET /api/jobs</strong>: Retrieve all job postings.</li>
+            <li><strong>GET <a href="http://localhost:4000/api/jobs">/api/jobs</a></strong>: Retrieve all job postings.</li>
             <li><strong>GET /api/jobs/:id</strong>: Retrieve a single job posting by ID.</li>
             <li><strong>PUT /api/jobs/:id</strong>: Update a job posting by ID.</li>
             <li><strong>DELETE /api/jobs/:id</strong>: Delete a job posting by ID.</li>
