@@ -42,7 +42,7 @@ npm install
 ### Step 3: Set up MySQL database
 Create a MySQL database for the project:
 ```sql
-CREATE DATABASE ;
+CREATE DATABASE db_name;
 ```
 
 Update the database connection configuration in the `config/config.json` (or `.env` if you are using environment variables) to match your MySQL setup:
