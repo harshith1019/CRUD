@@ -1,5 +1,3 @@
----
-
 # Job Posting API
 
 A CRUD API for managing job postings, built with **Node.js**, **Express**, **TypeScript**, and **MySQL**. This API allows you to create, retrieve, update, and delete job postings.
