@@ -117,6 +117,13 @@ This will start the application on `http://localhost:3000`. The server will hand
 
 ---
 
+## Resources Utilized
+
+- [**Sequelize**](https://sequelize.org/docs/v6/getting-started/).
+- [Sequelize using Typescript](https://www.npmjs.com/package/sequelize-typescript)
+ 
+---
+
 Feel free to explore the project and contribute! If you encounter any issues, feel free to open an issue or submit a pull request.
 harshithkollukuduru@gmail.com
 
